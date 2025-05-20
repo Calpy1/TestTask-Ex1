@@ -1,0 +1,14 @@
+C:\Users\novos\Desktop\ToDo\TestEx1\TestEx1\bin\Debug\net8.0\TestEx1.exe
+C:\Users\novos\Desktop\ToDo\TestEx1\TestEx1\bin\Debug\net8.0\TestEx1.deps.json
+C:\Users\novos\Desktop\ToDo\TestEx1\TestEx1\bin\Debug\net8.0\TestEx1.runtimeconfig.json
+C:\Users\novos\Desktop\ToDo\TestEx1\TestEx1\bin\Debug\net8.0\TestEx1.dll
+C:\Users\novos\Desktop\ToDo\TestEx1\TestEx1\bin\Debug\net8.0\TestEx1.pdb
+C:\Users\novos\Desktop\ToDo\TestEx1\TestEx1\obj\Debug\net8.0\TestEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novos\Desktop\ToDo\TestEx1\TestEx1\obj\Debug\net8.0\TestEx1.AssemblyInfoInputs.cache
+C:\Users\novos\Desktop\ToDo\TestEx1\TestEx1\obj\Debug\net8.0\TestEx1.AssemblyInfo.cs
+C:\Users\novos\Desktop\ToDo\TestEx1\TestEx1\obj\Debug\net8.0\TestEx1.csproj.CoreCompileInputs.cache
+C:\Users\novos\Desktop\ToDo\TestEx1\TestEx1\obj\Debug\net8.0\TestEx1.dll
+C:\Users\novos\Desktop\ToDo\TestEx1\TestEx1\obj\Debug\net8.0\refint\TestEx1.dll
+C:\Users\novos\Desktop\ToDo\TestEx1\TestEx1\obj\Debug\net8.0\TestEx1.pdb
+C:\Users\novos\Desktop\ToDo\TestEx1\TestEx1\obj\Debug\net8.0\TestEx1.genruntimeconfig.cache
+C:\Users\novos\Desktop\ToDo\TestEx1\TestEx1\obj\Debug\net8.0\ref\TestEx1.dll
